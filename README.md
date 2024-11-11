@@ -4,13 +4,21 @@
 # FEATURES
 
 🛠 Full-featured Discord, Twitter and Telegram connectors
+
 👥 Multi-agent and room support
+
 📚 Easily ingest and interact with your documents
+
 💾 Retrievable memory and document store
+
 🚀 Highly extensible - create your own actions and clients to extend capabilities
+
 ☁️ Supports many models, including local Llama, OpenAI, Anthropic, Groq, and more
+
 📦 Just works!
-What can I use it for?
+
+# What can I use it for?
+
 🤖 Chatbots
 🕵️ Autonomous Agents
 📈 Business process handling
