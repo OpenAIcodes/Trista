@@ -1,5 +1,45 @@
-# Zena
-![image](https://github.com/user-attachments/assets/909e0953-8dbf-4c19-b2b2-3cac6d8b4827)
+# Zena the auto-launch pump.fun AI
+![image](https://github.com/user-attachments/assets/2d81e2e0-785d-43ed-a7e1-7fd7ab6a9c40)
+
+
+
+# Token Example
+
+Token : TechNeko
+
+![image](https://github.com/user-attachments/assets/f1cd9883-c231-41a9-b6f6-46a6cb562b8b)
+
+Description : “Tech” represents the advanced, digital vibe, and “Neko” (which means “cat” in Japanese) highlights the cat-inspired design. It conveys both the technological essence and the sleek, mysterious allure of a futuristic token.
+
+Tokenomics: 1. Total Supply
+
+Total Supply: 1,000,000,000 TNK
+
+This total supply is fixed, meaning no additional tokens will be minted in the future.
+
+# 2. Distribution Breakdown
+
+Initial Distribution:
+
+Team & Advisors: 15% (150,000,000 TNK)
+
+Vesting Period: 12 months lock-up, followed by a linear release over 24 months.
+
+Development & Innovation Fund: 20% (200,000,000 TNK)
+
+For ongoing development, partnerships, and technological upgrades.
+
+Ecosystem & Community Growth: 25% (250,000,000 TNK)
+
+
+
+
+
+
+
+
+
+
 
 # FEATURES
 
