@@ -11,8 +11,8 @@ Zena makes launching your own token as intuitive and efficient as possible.
 
 # Token Example
 
-# Token : 
-TechNeko
+# Token : TechNeko
+
 
 ![image](https://github.com/user-attachments/assets/f1cd9883-c231-41a9-b6f6-46a6cb562b8b)
 
