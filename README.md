@@ -1,6 +1,4 @@
 # Zena the auto-launch pump.fun AI
-![image](https://github.com/user-attachments/assets/2d81e2e0-785d-43ed-a7e1-7fd7ab6a9c40)
-
 
 
 # Token Example
