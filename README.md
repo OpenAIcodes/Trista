@@ -1,5 +1,7 @@
 # Zena the auto-launch pump.fun AI
 
+Meet Zena, a cutting-edge AI designed to revolutionize the digital currency landscape. Zena specializes in effortlessly launching new coins, automating everything from initial setup to tokenomics, distribution, and deployment. With her advanced algorithms and market analysis capabilities, Zena simplifies the process of bringing new coins to life, ensuring they’re optimized for growth, stability, and engagement. Whether you’re an entrepreneur, developer, or visionary, Zena makes launching your own token as intuitive and efficient as possible.
+
 
 # Token Example
 
