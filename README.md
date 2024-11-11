@@ -15,7 +15,8 @@ Token : TechNeko
 
 ![image](https://github.com/user-attachments/assets/f1cd9883-c231-41a9-b6f6-46a6cb562b8b)
 
-Description : “Tech” represents the advanced, digital vibe, and “Neko” (which means “cat” in Japanese) highlights the cat-inspired design. It conveys both the technological essence and the sleek, mysterious allure of a futuristic token.
+# Description : 
+“Tech” represents the advanced, digital vibe, and “Neko” (which means “cat” in Japanese) highlights the cat-inspired design. It conveys both the technological essence and the sleek, mysterious allure of a futuristic token.
 
 Tokenomics: 1. Total Supply
 
