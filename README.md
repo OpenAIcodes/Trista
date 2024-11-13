@@ -1,5 +1,8 @@
 # Trista The a16z AI
 
+![image](https://github.com/user-attachments/assets/ea5571fc-58be-4313-b3df-95a6e7d519a5)
+
+
 Meet Trista, a cutting-edge AI designed to revolutionize the digital currency landscape. 
 
 Trista specializes in effortlessly launching new coins, automating everything from initial setup to tokenomics, distribution, and deployment. With her advanced algorithms and market analysis capabilities, Zena simplifies the process of bringing new coins to life, 
